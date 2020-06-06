@@ -38,5 +38,16 @@ li{
 }
 
 #task{
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid white;
+    text-align: center;
+    margin-right: 1rem;
+    color: white;
+    width: 25rem;
+    font-size: 1.2 rem;
+}
 
+.task-summary{
+    color: white;
 }
